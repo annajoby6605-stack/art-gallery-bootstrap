@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Girl with a Pearl Earring</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="gallery.html">Gallery</a>
+</nav>
+
+<div class="art-card">
+
+    <img src="pearlgirl.jpg">
+
+    <h1>Girl with a Pearl Earring</h1>
+
+    <p><b>Artist:</b> Johannes Vermeer</p>
+    <p><b>Year:</b> 1665</p>
+    <p><b>Country:</b> Netherlands</p>
+    <p><b>Style:</b> Baroque</p>
+    <p><b>Current Location:</b> Mauritshuis Museum, The Hague, Netherlands</p>
+
+    <p>
+        Girl with a Pearl Earring is one of Johannes Vermeer's most famous works
+        and is often called the "Dutch Mona Lisa." The painting is admired for its
+        beautiful use of light, realistic details, and the mystery surrounding the
+        identity of the girl in the portrait.
+    </p>
+
+    <a class="btn" href="gallery.html">Back to Gallery</a>
+
+</div>
+
+</body>
+</html>
